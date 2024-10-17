@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xinming An / X-Lab"
+title                    : "X-Lab"
 title_separator          : "-"
 name                     : &name "Xinming An"
 description              : &description "Assistant Professor at UNC-Chapel Hill"
@@ -176,7 +176,7 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
@@ -185,7 +185,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
