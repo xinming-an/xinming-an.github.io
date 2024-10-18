@@ -12,7 +12,7 @@ I am an Assistant Professor in the Department of Anesthesiology and Institute fo
 
 I serve as co-Investigator and lead the statistical analysis core for several large scale research studies conducted at UNC-Chapel Hill, including prominent projects like AURORA and DISENTANGLE. Throughout my career, I have taken a lead role in numerous research initiatives, where I've been responsible for developing risk prediction tools, investigating homogeneous subgroups, and identifying objective biomarkers
 
-I obtained my Ph.D. in Quantitative Psychology and M.S. in Statistics at UCLA, where I was fortunate to be advised by Dr. Peter Bentler. Before joining UNC, I worked at SAS for many years where I developed the IRT procedure and contributed to many other procedures in the SAS/STAT software. 
+I obtained my Ph.D. in Quantitative Psychology and M.S. in Statistics at UCLA, where I was fortunate to be advised by [Dr. Peter Bentler](https://scholar.google.com/citations?user=esb4VbgAAAAJ&hl=en). Before joining UNC, I worked at SAS for many years where I developed the IRT procedure and contributed to many other procedures in the SAS/STAT software. 
 
 
 

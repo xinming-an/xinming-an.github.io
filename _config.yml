@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Xinming An"
   avatar           : "xman.jpeg"
-  bio              : "Biostatistician; Data Scientist; Pain, Posttraumatic outcomes; Perioperative outcomes"
-  location         : "UNC-Chapel Hill"
+  bio              : "Biostatistician; Data Scientist; Pain, PTSD, Posttraumatic outcomes; Perioperative outcomes"
+  location         : "[UNC-Chapel Hill](https://www.med.unc.edu/anesthesiology/directory/xinming-simon-an/)"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/myncbi/xinming.an.1/bibliography/public/"
   googlescholar    : "https://scholar.google.com/citations?user=srByfZsAAAAJ&hl=en"
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
