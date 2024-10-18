@@ -28,20 +28,20 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
+  
+Studies and Grant
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+**AURORA**
+
+1. Aim: 
+2. Role: Co-I and Biostatistician
+
+**DISENTANGLE**
+
+1. Aim:
+2. Role: Co-I
+
   
 Talks
 ======
