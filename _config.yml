@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xinming An"
   avatar           : "xman.jpeg"
-  bio              : "Assistant Professor; Biostatistician; Data Scientist"
+  bio              : "Biostatistician; Data Scientist; Pain, Posttraumatic outcomes; Perioperative outcomes"
   location         : "UNC-Chapel Hill"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/myncbi/xinming.an.1/bibliography/public/"
@@ -176,7 +176,7 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: false
+    output: true
     permalink: /:collection/:path/
   publications:
     output: true
