@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the [Department of Anesthesiology]((https://www.med.unc.edu/anesthesiology/directory/xinming-simon-an/)) and [Institute for Trauma Recovery](https://www.med.unc.edu/itr/) at UNC-Chapel Hill. I am an interdisciplinary researcher with extensive experience in the development and application of advanced statistical techniques for health research. My background encompasses training and research in mathematics, statistics, and psychometrics, providing a solid foundation in various statistical modeling techniques and their practical applications in health-related research projects. 
+I am an Assistant Professor in the [Department of Anesthesiology]((https://www.med.unc.edu/anesthesiology/directory/xinming-simon-an/)) and [Institute for Trauma Recovery](https://www.med.unc.edu/itr/) at UNC-Chapel Hill. I am an interdisciplinary researcher with extensive experience in the development and application of advanced statistical techniques for health research based on complex multimodal data, such as self-report survey, genomic, imaging and mobile device data. 
 
 I serve as co-Investigator and lead the statistical analysis core for several large scale research studies conducted at UNC-Chapel Hill, including prominent projects like AURORA and DISENTANGLE. Throughout my career, I have taken a lead role in numerous research initiatives, where I've been responsible for developing risk prediction tools, investigating homogeneous subgroups, and identifying objective biomarkers
 

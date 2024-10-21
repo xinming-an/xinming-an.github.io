@@ -6,14 +6,20 @@ author_profile: true
 ---
 
 
-Our research focus on complex and high-dimensional data analysis, with a particular emphasis on its relevance to medical research, especially in the context of adverse posttraumatic neuropsychiatric sequelae (APNS) and perioperative outcomes.  related to APNS.
+Our research focus on complex and high-dimensional data analysis, with a particular emphasis on its relevance to medical research, especially in the context of adverse posttraumatic neuropsychiatric sequelae (APNS) and perioperative outcomes. Our research can be grouped into the following categories. 
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
 
-{% include base_path %}
+Heterogeneity of multiple co-occurring disorders
+======
+Study the heterogeneity of multiple co-occurring disorders and identify homogeneous subgroups/subtypes in terms of severity, longitudinal development, associations and treatment/causal effect.
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+
+
+Objective biomarkers
+======
+
+
+
+Risk prediction tools
+======
+
