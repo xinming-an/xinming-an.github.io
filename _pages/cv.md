@@ -66,7 +66,6 @@ Active
 * Grant Period: 09/30/2023 – 09/29/2027
 * Role: Co-I (5% from 9/30/2023 -9/29/2026, 10% from 9/30/2026-9/29/2027)
 
-
 **VENTURE**
 * TITLE: VENTURE Trial: Vitamin d to ENhance TraUma REcovery
 * Grant Amount: $280,158
@@ -90,11 +89,11 @@ Completed
 * Role: Co-I (40% Effort)
 
 **Heroes Health**
-*TITLE: 		Heroes Health Initiative
-*Grant Amount: 	$250,000
-*Funding Agencies: 	The Rockefeller Foundation
-*Grant Period:	7/1/2020 - 6/30/2021
-*Role:		Co-I (0%)
+* TITLE: 		Heroes Health Initiative
+* Grant Amount: 	$250,000
+* Funding Agencies: 	The Rockefeller Foundation
+* Grant Period:	7/1/2020 - 6/30/2021
+* Role:		Co-I (0%)
 
 Teaching
 ======
