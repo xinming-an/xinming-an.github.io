@@ -6,8 +6,14 @@ author_profile: true
 ---
 
 
-Our research focus on complex and high-dimensional data analysis, with a particular emphasis on its relevance to medical research, especially in the context of adverse posttraumatic neuropsychiatric sequelae (APNS) and perioperative outcomes. Our research can be grouped into the following categories. 
+Our research focus on complex and high-dimensional data analysis, with a particular 
+emphasis on its relevance to medical research, 
+especially in the context of adverse posttraumatic neuropsychiatric sequelae (APNS) 
+and perioperative outcomes. Our research can be grouped into the following categories. 
 
+
+Advance patient-centered, evidence-based, and integrative perioperative patient care. 
+======
 
 Heterogeneity of multiple co-occurring disorders
 ======
