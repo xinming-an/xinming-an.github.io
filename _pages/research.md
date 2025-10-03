@@ -5,11 +5,24 @@ permalink: /researches/
 author_profile: true
 ---
 
+I am an interdisciplinary researcher with extensive experience in developing and 
+applying advanced statistical and computational models to address complex healthcare 
+research challenges. Through close collaborations 
+with clinicians, one major focus of my research is to advance patient-centered, 
+evidence-based, and integrative perioperative patient care by identifying and testing 
+risk factor, evaluated treatment effect of individual and combined treatments and developing 
+risk prediction tools. Another key area of my research centers on posttraumatic outcomes, 
+with particular emphasis on chronic posttraumatic pain, where I have led efforts to develop 
+risk prediction tools, identify homogeneous subgroups, and discover objective biomarkers. 
+At UNC-Chapel Hill, I serve as a co-Investigator and lead the statistical analysis core for 
+several large-scale trauma studies. Through my collaboration with researchers from multiple 
+disciplines, I have gained firsthand experience on the importance of multidisciplinary 
+teamwork in advancing research and patient care, particularly in the application of 
+artificial intelligence (AI). Drawing on my diverse research experience and background 
+across many different fields, my overarching goal is to build and lead interdisciplinary 
+teams that integrate clinical domain knowledge, advanced analytics, and AI to advance 
+healthcare research and practice. 
 
-Our research focus on complex and high-dimensional data analysis, with a particular 
-emphasis on its relevance to medical research, 
-especially in the context of adverse posttraumatic neuropsychiatric sequelae (APNS) 
-and perioperative outcomes. Our research can be grouped into the following categories. 
 
 
 Advance patient-centered, evidence-based, and integrative perioperative patient care. 
