@@ -53,7 +53,7 @@ Develop risk prediction tools, and identify objective biomarkers and subtypes fo
 High dimensional complex data analysis. 
 ======
 
-*Watson, RA., Cai, H., An, X., McLean, S., & Song, R. On Heterogeneous Treatment Effects in Heterogeneous Causal Graphs. In International Conference on Machine Learning (ICML 2023).
+* Watson, RA., Cai, H., An, X., McLean, S., & Song, R. On Heterogeneous Treatment Effects in Heterogeneous Causal Graphs. In International Conference on Machine Learning (ICML 2023).
 
 * Ge L, An X, Zeng D, McLean S, Kessler R, Song R. Continuous-Time Hidden Markov Factor Model for Mobile Health Data: Application to Adverse Posttraumatic Neuropsychiatric Sequelae. IEEE J Biomed Health Inform. 2025 Feb;29(2):741-749. doi: 10.1109/JBHI.2024.3514678. Epub 2025 Feb 10. PMID: 40030431; PMCID: PMC11970992. 
 
