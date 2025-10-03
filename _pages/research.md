@@ -44,6 +44,8 @@ High dimensional complex data analysis.
 
 * Ge L, An X, Zeng D, McLean S, Kessler R, Song R. Continuous-Time Hidden Markov Factor Model for Mobile Health Data: Application to Adverse Posttraumatic Neuropsychiatric Sequelae. IEEE J Biomed Health Inform. 2025 Feb;29(2):741-749. doi: 10.1109/JBHI.2024.3514678. Epub 2025 Feb 10. PMID: 40030431; PMCID: PMC11970992. 
 
+* An X, Yang Q, Bentler PM. A latent factor linear mixed model for high-dimensional longitudinal data analysis. Statistics in Medicine, 2013.  
+
 * An X, Bentler PM. Extended mixture factor analysis model with covariates for mixed binary and continuous responses. Statistics in Medicine, 2011.  
 
 * An X, Bentler PM. Efficient direct sampling MCEM algorithm for latent variable models with binary responses. Computational Statistics & Data Analysis, 2012.  
