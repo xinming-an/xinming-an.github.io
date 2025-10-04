@@ -1,11 +1,6 @@
 ---
-permalink: /
-title: "About Me"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+permalink: /teaching/
+title: "Teaching"
 ---
 
 I am an Assistant Professor in the [Department of Anesthesiology]((https://www.med.unc.edu/anesthesiology/directory/xinming-simon-an/)) 
