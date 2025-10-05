@@ -28,6 +28,12 @@ healthcare research and practice.
 Advance patient-centered, evidence-based, and integrative perioperative patient care. 
 ======
 
+Collaborators
+------
+
+
+Selected Publications
+------
 * Wrobel JR, Magin JC, Koyama Y, Sanders DG, Pillai M, An X, Grant SA, Doyal AS. Developing a method for ultrasound estimation of gastric volume in patients with previous gastric sleeve. Reg Anesth Pain Med. 2025 Jun 4:rapm-2025-106570. doi: 10.1136/rapm-2025-106570. Epub ahead of print. PMID: 40467086. 
 
 * Jacqueline A. Quinn, Kevin M. Welch, Erina Fujino, Carlos A. Jimenez Rosado, Xinming An, Jay W. Schoenherr, Lindsey N. Gouker. Perioperative glucagon-like peptide-1 receptor agonist use and retained gastric contents: A retrospective analysis of patients undergoing elective upper endoscopy, Journal of Clinical Anesthesia, Volume 102, 2025,111776,ISSN 0952-8180.
@@ -41,6 +47,13 @@ Advance patient-centered, evidence-based, and integrative perioperative patient 
 Develop risk prediction tools, and identify objective biomarkers and subtypes for posttraumatic outcomes. 
 ======
 
+Collaborators
+------
+
+
+Selected Publications
+------
+
 * Lee C, House SL, Beaudoin FL, Neylan TC, Clifford GD, Linnstaedt SD, Germine LT, Rauch SL, Haran JP, Storrow AB, Lewandowski C, Musey PI Jr, Hendry PL, Sheikh S, Punches BE, Swor RA, Hudak LA, Pascual JL, Seamon MJ, Harris E, Pearson C, Peak DA, Domeier RM, Rathlev NK, O'Neil BJ, Sergot P, Sanchez LD, Bruce SE, Sheridan JF, Harte SE, Koenen KC, Kessler RC, McLean SA, Yang Q, An X. Understanding Onset, Dynamic Transitions, and Associated Inequality Risk Factors for Adverse Posttraumatic Neuropsychiatric Sequelae After Trauma Exposure. Psychiatr Res Clin Pract. 2024 Nov 6;7(1):53-62. doi: 10.1176/appi.prcp.20240017. PMID: 40171069; PMCID: PMC11956718. 
 
 * Straus LD, An X, Ji Y, Cakmak AS, Richards A, Clifford GD, Liu M4, Zeng D, House SL, Beaudoin FL, Stevens JS, Linnstaedt SD, Germine LT, Bollen KA, Rauch SL, Haran JP, Storrow AB, Lewandowski C, Musey PI, Hendry PL, Sheikh S, Jones CW, Punches BE, Kurz MC, Swor RA, Hudak LA, Seamon MJ, Datner EM, Chang AM, Pearson C, Peak DA, Merchant RC, Domeier RM, Rathlev NK, O'Neil BJ, Sergot P, Sanchez LD, Bruce SE, Miller MW, Pietrzak RH, Joormann J, Barch DM, Pizzagalli DA, Sheridan JF, Harte SE, Elliott JM, Kessler RC, Ressler KJ, Koenen KC, McLean SA, Neylan TC. Utility of Wrist-Wearable Data for Assessing Pain, Sleep, and Anxiety Outcomes After Traumatic Stress Exposure. JAMA Psychiatry. 2023 Jan 11:e224533. doi: 10.1001/jamapsychiatry.2022.4533. Epub ahead of print. PMID: 36630119; PMCID: PMC9857758.
@@ -53,6 +66,12 @@ Develop risk prediction tools, and identify objective biomarkers and subtypes fo
 High dimensional complex data analysis. 
 ======
 
+Collaborators
+------
+
+
+Selected Publications
+------
 * Watson, RA., Cai, H., An, X., McLean, S., & Song, R. On Heterogeneous Treatment Effects in Heterogeneous Causal Graphs. In International Conference on Machine Learning (ICML 2023).
 
 * Ge L, An X, Zeng D, McLean S, Kessler R, Song R. Continuous-Time Hidden Markov Factor Model for Mobile Health Data: Application to Adverse Posttraumatic Neuropsychiatric Sequelae. IEEE J Biomed Health Inform. 2025 Feb;29(2):741-749. doi: 10.1109/JBHI.2024.3514678. Epub 2025 Feb 10. PMID: 40030431; PMCID: PMC11970992. 
