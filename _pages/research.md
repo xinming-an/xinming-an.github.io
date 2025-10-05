@@ -24,12 +24,14 @@ teams that integrate clinical domain knowledge, advanced analytics, and AI to ad
 healthcare research and practice. 
 
 
-
-Advance patient-centered, evidence-based, and integrative perioperative patient care. 
+<span style="color: blue;"> Advance patient-centered, evidence-based, and integrative perioperative patient care. </span>
 ======
 
 Collaborators
 ------
+* [Lindsey Gouker](https://www.med.unc.edu/anesthesiology/directory/lindsey-gouker/), Department of Anesthesiology, UNC-Chapel Hill
+* [Monika Nanda](https://www.med.unc.edu/anesthesiology/directory/monika-nanda/), Department of Anesthesiology, UNC-Chapel Hill
+* [Tianlong Chen](https://tianlong-chen.github.io/), Department of Computer Science, UNC-Chapel Hill
 
 
 Selected Publications
@@ -44,12 +46,15 @@ Selected Publications
 
 
 
-Develop risk prediction tools, and identify objective biomarkers and subtypes for posttraumatic outcomes. 
+<span style="color: blue;"> Develop risk prediction tools, and identify objective biomarkers and subtypes for posttraumatic outcomes. </span>
 ======
 
 Collaborators
 ------
-
+* [Sarah Linnstaedt](https://www.med.unc.edu/anesthesiology/directory/sarah-linnstaedt/), Department of Anesthesiology, UNC-Chapel Hill
+* [Lauriane Guichard](https://www.med.unc.edu/anesthesiology/directory/lauriane-guichard/), Department of Anesthesiology, UNC-Chapel Hill
+* [Sam McLean](https://www.med.unc.edu/itr/directory/samclean/), Department of Psychiatry and Emergency Medicine, UNC-Chapel Hill
+* [Chiyoung Lee](https://nursing.arizona.edu/clee33), College of Nursing, University of Arizona
 
 Selected Publications
 ------
@@ -63,12 +68,15 @@ Selected Publications
 * Beaudoin FL, An X, Basu A, Ji Y, Liu M, Kessler RC, Doughtery R, Zeng D, Bollen KA, House SL, Stevens JS, Neylan TC, Clifford GD, Jovanovic T, Linnstaedt SD, Germine LT, Rauch SL, Haran JP, Storrow AB, Lewandowski C, Musey PI Jr., Hendry PL, Sheikh S, Jones CW, Punches BE, Kurz MC, Swor RA, Murty VP, McGrath ME, Hudak LA, Pascual JL, Datner EM, Chang AM, Pearson C, Peak DA, Merchant RC, Domeier RM, Rathlev NK, O'Neil BJ, Sergot P, Sanchez LD, Bruce SE, Baker J, Joormann J,  Miller MW, Pietrzak RH, Barch DM, Pizzagalli DA, Sheridan JF, Smoller JW, Harte SE, Elliot JM, Koenen KC, Ressler KJ, McLean SA. Use of serial smartphone-based assessments to characterize diverse neuropsychiatric symptom trajectories in a large trauma survivor cohort. Transl Psychiatry. 2023 Jan 7;13(1):4. doi: 10.1038/s41398-022-02289-y. PMID: 36609484; PMCID: PMC9823011.
 
 
-High dimensional complex data analysis. 
+<span style="color: blue;"> High dimensional complex data analysis. </span>
 ======
 
 Collaborators
 ------
-
+* [Song Rui](https://song-ray.github.io/), Amazon Inc. 
+* [Heng Cai](https://hengruicai.github.io/), Department of Statistics, 
+University of California, Irvine. 
+* [Wenbin Lu](https://statistics.sciences.ncsu.edu/people/wlu4/), Department of Statistics, North Carolina State University. 
 
 Selected Publications
 ------
