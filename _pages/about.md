@@ -45,11 +45,11 @@ an AI-powered clinical decision support tool for preoperative evaluation.
 biomarkers of posttraumatic outcomes was highlighted by Digital Psychiatry and 
 Neuroscience ([Youtube video](https://www.youtube.com/watch?v=4i3QrdNy6to)).
 * May, 2025: <span style="color: red;">[Honor]</span> Congratulations to Bridget 
-Lin on receiving the highest distinction for her thesis, which focused on developing 
+Lin on receiving the highest honor for her thesis, which focused on developing 
 advanced prediction tools for posttraumatic pain and PTSD leveraging high-dimensional 
 methylation data. 
 * May, 2025: <span style="color: red;">[Honor]</span> Congratulations to Razmin 
-Bari on receiving the highest distinction for her thesis, which examined the 
+Bari on receiving the highest honor for her thesis, which examined the 
 causal effect of peritraumatic stress on posttraumatic pain.
 
 
