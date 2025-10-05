@@ -41,7 +41,7 @@ News
 * July, 2025: <span style="color: red;">[Honor]</span> We gratefully acknowledge 
 funding from the Department of Anesthesiology in support of our project developing 
 an AI-powered clinical decision support tool for preoperative evaluation.
-* June, 2025: <span style="color: red;">[Honor]</span> OOur paper on language 
+* June, 2025: <span style="color: red;">[Honor]</span> Our paper on language 
 biomarkers of posttraumatic outcomes was highlighted by Digital Psychiatry and 
 Neuroscience ([Youtube video](https://www.youtube.com/watch?v=4i3QrdNy6to)).
 * May, 2025: <span style="color: red;">[Honor]</span> Congratulations to Bridget 
