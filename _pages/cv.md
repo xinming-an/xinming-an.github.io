@@ -79,6 +79,21 @@ Active
 * Grant Period: 9/1/2020-8/30/25
 * Role: Co-I (0% Effort)
 
+Submitted
+------
+
+* Role: PI (25% effort)
+* Title: Developing and Validating an AI Tool for Preoperative Evaluation in High-Risk Elderly Patients
+* Amount $1,498,065.00
+* Source/Agency: NIH
+
+
+* Role: PI (25% effort)
+* Title: Enabling AI-Driven Research for Chronic Posttraumatic Pain: A Cloud-Based Platform Integrating Harmonized Data, Knowledge Graphs, and Advanced AI Tools
+* Amount $2,084,396.00
+* Source/Agency: NIH
+
+
 Completed
 ------
 **AURORA**
