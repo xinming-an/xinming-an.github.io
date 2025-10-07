@@ -42,35 +42,61 @@ Studies and Grant
 Active
 ------
 
-**DISENTANGLE**
-* TITLE: Discovering DIagnostics, SubtypEs, and NaTurAl history of traumatic brain iNjury (TBI) vs. non-TBI Recovery to Gain MiLitary advantagE
+**Interplay between biological aging and neuropsychiatric phenotypes after trauma**
+
+* Source/Agency: NIH
+* Period: 8/20/2025 – 04/30/2029
+* Role: Co-I (5% effort)
+
+**Sex-Dependent micro-RNA-mediated pathways to chronic musculoskeletal 
+pain following trauma**
+
+* Source/Agency: NIH
+* Period: 9/01/2023 – 08/31/2028
+* Role: Co-I and Biostatistician (8% effort)
+
+**Discovering DIagnostics, SubtypEs, and NaTurAl history of traumatic 
+brain iNjury (TBI) vs. non-TBI Recovery to Gain MiLitary advantagE**
+
 * Funding Agencies:CDMRP
 * Period:9/30/2022 – 9/29/2026
 * Role: Co-I (20% Effort)
 
-**OASIS**
-* TITLE: Prevention/Reduction of ASRs and PTSD to Sustain Warfighter Performance with Osanetant, a best-in-class NK3R Antagonist
+**Prevention/Reduction of ASRs and PTSD to Sustain Warfighter Performance with 
+Osanetant, a best-in-class NK3R Antagonist**
+
 * Funding Agencies:CDMRP
 * Period:9/30/2022 – 9/29/2026
 * Role:Co-I (10% Effort)
 
-**iCOVER**
-* TITLE:  Promoting Rapid Return to Functioning after Acute Stress Reaction: Assessing the Efficacy of the iCOVER Intervention
+**Promoting Rapid Return to Functioning after Acute Stress Reaction: Assessing 
+the Efficacy of the iCOVER Intervention**
+
 * Funding Agencies: CDMRP
 * Grant Period: 09/30/2023 – 09/29/2027
 * Role: Co-I (5% from 9/30/2023 -9/29/2026, 10% from 9/30/2026-9/29/2027)
 
+**Suicidal Thoughts and Behaviors among Women Sexual Assault Survivors: 
+A Proof-of Concept and Feasibility Study**
+
+* Source/Agency: American Foundation for Suicide Prevention. 
+* Grant Period: 10/12/2024 – 12/31/2026
+* Role: Co-I and Biostatistician (7%)
 
 Pending
 ------
 
+**Developing and Validating an AI Tool for Preoperative Evaluation in High-Risk 
+Elderly Patients**
+
 * Role: PI (25% effort)
-* Title: Developing and Validating an AI Tool for Preoperative Evaluation in High-Risk Elderly Patients
 * Amount $1,498,065.00
 * Source/Agency: NIH
 
+**Title: Enabling AI-Driven Research for Chronic Posttraumatic Pain: A Cloud-Based 
+Platform Integrating Harmonized Data, Knowledge Graphs, and Advanced AI Tools**
+
 * Role: PI (25% effort)
-* Title: Enabling AI-Driven Research for Chronic Posttraumatic Pain: A Cloud-Based Platform Integrating Harmonized Data, Knowledge Graphs, and Advanced AI Tools
 * Amount $2,084,396.00
 * Source/Agency: NIH
 
@@ -79,18 +105,21 @@ Completed
 ------
 
 **WISE**
+
 * TITLE: Written Exposure Therapy to Improve Outcomes after Trauma
 * Funding Agencies: National Center for PTSD
 * Grant Period: 9/1/2020-8/30/25
 * Role: Co-I (0% Effort)
 
 **BACPAC**
+
 * TITLE:  Back Pain Consortium (BACPAC) Research Program Data Integration, Algorithm Development and Operations Management Center 
 * Funding Agencies: NIH/NIAMS
 * Grant Period: 9/26/2019 – 5/31/2024
 * Role: Co-I (15% Effort)
 
 **AURORA**
+
 * TITLE: Longitudinal Assessment of Posttraumatic Syndromes (The AURORA Study)
 * Grant Type (or Number): 	U01MH110925
 * Funding Agencies:	NIMH
@@ -98,6 +127,7 @@ Completed
 * Role: Co-I (40% Effort)
 
 **VENTURE**
+
 * TITLE: VENTURE Trial: Vitamin d to ENhance TraUma REcovery
 * Grant Amount: $280,158
 * Funding Agencies: NIMHD
@@ -105,6 +135,7 @@ Completed
 * Role: Co-I (0% Effort)
 
 **Heroes Health**
+
 * TITLE: 		Heroes Health Initiative
 * Grant Amount: 	$250,000
 * Funding Agencies: 	The Rockefeller Foundation
