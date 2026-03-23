@@ -1,8 +1,10 @@
 ---
 layout: archive
-title: "Researches"
-permalink: /researches/
+title: "Research"
+permalink: /research/
 author_profile: true
+redirect_from:
+  - /researches/
 ---
 
 I am an interdisciplinary researcher with extensive experience in developing and 
@@ -173,4 +175,3 @@ mixed binary and continuous responses. Statistics in Medicine, 2011.
 
 * An X, Bentler PM. Efficient direct sampling MCEM algorithm for latent variable 
 models with binary responses. Computational Statistics & Data Analysis, 2012.
-

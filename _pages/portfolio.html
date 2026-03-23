@@ -3,12 +3,111 @@ layout: archive
 title: "Portfolio"
 permalink: /portfolio/
 author_profile: true
+excerpt: "Recent AI-enabled research systems in perioperative evaluation, postoperative prediction, and agent-assisted scientific workflow"
+header:
+  overlay_color: "#0f4b5b"
+  cta_label: "View Publications"
+  cta_url: "/publications/"
 ---
 
-{% include base_path %}
+<div class="portfolio-intro">
+  <p>This page highlights recent AI-enabled research systems and prediction workflows that connect clinical questions, EHR data engineering, LLM experimentation, and manuscript development. Across these projects, I have been using Codex and Claude not only for coding assistance, but also for planning, prompt iteration, pipeline design, validation, and research writing support.</p>
+</div>
 
+<section class="project-showcase">
+  <p class="project-showcase__eyebrow">Clinical Summarization Platform</p>
+  <h2>PreoperativeEvaluation</h2>
+  <p class="project-showcase__summary">An end-to-end research platform for generating anesthesiology-style preoperative evaluation summaries from longitudinal EHR data in MIMIC-IV.</p>
 
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
+  <div class="project-pill-row">
+    <span class="project-pill">MIMIC-IV</span>
+    <span class="project-pill">Structured EHR Retrieval</span>
+    <span class="project-pill">LLM Summarization</span>
+    <span class="project-pill">LLM-as-Judge Evaluation</span>
+    <a class="project-pill" href="https://preop-demo-47f4sel2pa-uc.a.run.app/">Live Demo</a>
+  </div>
 
+  <div class="project-grid">
+    <section class="project-panel">
+      <h3>What the system does</h3>
+      <p>The workflow combines BigQuery-based cohort construction, structured clinical data extraction, open-source LLM summarization, and rubric-based evaluation into a coordinated multi-agent research pipeline.</p>
+    </section>
+    <section class="project-panel">
+      <h3>Why it matters</h3>
+      <p>Preoperative assessment often requires clinicians to integrate fragmented prior admissions, medications, labs, microbiology, and comorbidity history. This project explores how AI can make that synthesis more systematic, auditable, and clinically useful, with special emphasis on making each summary traceable back to the underlying patient record.</p>
+    </section>
+  </div>
+
+  <div class="project-callout">
+    <p class="project-callout__label">Key capability</p>
+    <p>The demo supports trace-back highlighting so users can inspect the raw patient data corresponding to specific portions of the generated summary, making the system more transparent and easier to evaluate clinically.</p>
+  </div>
+
+  <h3>Highlights</h3>
+  <ul>
+    <li>Built a LangGraph-style multi-agent pipeline spanning data retrieval, summarization, evaluation, and analysis.</li>
+    <li>Integrated perioperative context including medications, labs, microbiology, comorbidity burden, baseline measurements, and prior admissions.</li>
+    <li>Benchmarked open-source LLMs across multiple inference backends and evaluated summary quality with rubric-based commercial LLM judges.</li>
+    <li>Developed supporting research artifacts including experiment outputs, publication figures, manuscript drafts, a clinician review app, and a synthetic demo.</li>
+    <li>Published an interactive demo for exploring the preoperative summary workflow in a shareable web interface.</li>
+    <li>The demo supports trace-back highlighting so users can inspect the raw patient data corresponding to specific portions of the generated summary.</li>
+    <li>Used Codex and Claude for prompt design, rubric iteration, experiment planning, implementation support, and manuscript development.</li>
+  </ul>
+
+  <p class="project-techline"><strong>Technical focus:</strong> Python, LangGraph/LangChain-style orchestration, BigQuery/GCP, Hugging Face and vLLM model serving, commercial LLM-based evaluation, and reproducible research-tooling pipelines for figures, tables, and exports.</p>
+</section>
+
+<section class="project-showcase">
+  <p class="project-showcase__eyebrow">Prediction and Fine-Tuning Workflow</p>
+  <h2>PostoperationPrediction</h2>
+  <p class="project-showcase__summary">A preoperative prediction workflow for postoperative infection using longitudinal EHR context and instruction-style LLM classifiers.</p>
+
+  <div class="project-pill-row">
+    <span class="project-pill">Longitudinal EHR</span>
+    <span class="project-pill">Leakage-Aware Cohorting</span>
+    <span class="project-pill">LoRA / QLoRA</span>
+    <span class="project-pill">Clinical Prediction</span>
+  </div>
+
+  <div class="project-grid">
+    <section class="project-panel">
+      <h3>What the workflow does</h3>
+      <p>The project builds a leakage-aware surgical cohort, creates modeling-ready representations from preoperative and prior-admission data, and evaluates open-weight LLMs for clinically meaningful infection outcomes.</p>
+    </section>
+    <section class="project-panel">
+      <h3>What we learned early</h3>
+      <p>Reduced-context strategies performed better than naive long-context truncation in pilot evaluation, improving held-out ROC AUC from 0.675 to 0.883 and average precision from 0.159 to 0.478.</p>
+    </section>
+  </div>
+
+  <h3>Highlights</h3>
+  <ul>
+    <li>Framed the first manuscript around ICD-based postoperative infection as a clinically coherent primary endpoint.</li>
+    <li>Built patient-level cohorting and split logic to reduce leakage from repeat admissions.</li>
+    <li>Constructed modeling inputs that combine demographics, procedures, comorbidity context, medications, labs, microbiology, and prior-admission note history.</li>
+    <li>Prepared fine-tuning and evaluation pipelines for instruction-style LoRA and QLoRA workflows.</li>
+    <li>Used a planning-oriented multi-agent workflow, supported by Codex and Claude, to coordinate data, modeling, validation, and manuscript tasks.</li>
+  </ul>
+
+  <p class="project-techline"><strong>Technical focus:</strong> longitudinal EHR representation, patient-level dataset design, fine-tuning exports for instruction-style models, and evaluation pipelines for clinically grounded binary prediction tasks.</p>
+</section>
+
+## AI Research Workflow
+
+<div class="feature-grid">
+  <section class="feature-card">
+    <p class="feature-card__eyebrow">Planning</p>
+    <h3>Codex and Claude as research collaborators</h3>
+    <p>I increasingly use agentic workflows to break large clinical AI projects into planning, coding, evaluation, and writing threads that can move in parallel.</p>
+  </section>
+  <section class="feature-card">
+    <p class="feature-card__eyebrow">Validation</p>
+    <h3>Reproducibility stays central</h3>
+    <p>The goal is not to replace methodological rigor, but to accelerate careful cohort design, prompt iteration, result checking, and manuscript preparation.</p>
+  </section>
+  <section class="feature-card">
+    <p class="feature-card__eyebrow">Direction</p>
+    <h3>AI as part of the full research stack</h3>
+    <p>These projects reflect a broader agenda of treating AI as one component in clinically grounded, end-to-end research systems rather than as an isolated modeling layer.</p>
+  </section>
+</div>

@@ -1,61 +1,65 @@
 ---
 permalink: /
-title: "About Me"
-excerpt: "About me"
+title: "Xinming An"
+excerpt: "Biostatistics, perioperative medicine, and AI-enabled clinical research at UNC-Chapel Hill"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
-  - /about.html
+header:
+  overlay_color: "#15384f"
+  cta_label: "Explore Research"
+  cta_url: "/research/"
 ---
 
-I am an Assistant Professor in the [Department of Anesthesiology]((https://www.med.unc.edu/anesthesiology/directory/xinming-simon-an/)) 
-and [Institute for Trauma Recovery](https://www.med.unc.edu/itr/) at UNC-Chapel Hill. 
-I obtained my Ph.D. in Quantitative Psychology and M.S. in Statistics at UCLA, 
-where I was fortunate to be advised by [Dr. Peter Bentler](https://scholar.google.com/citations?user=esb4VbgAAAAJ&hl=en). 
-Before joining UNC, I worked at SAS for many years where I developed the IRT procedure 
-and contributed to many other procedures in the SAS/STAT software. 
+I am an Assistant Professor in the [Department of Anesthesiology](https://www.med.unc.edu/anesthesiology/directory/xinming-simon-an/) and the [Institute for Trauma Recovery](https://www.med.unc.edu/itr/) at UNC-Chapel Hill. I obtained my Ph.D. in Quantitative Psychology and M.S. in Statistics at UCLA, where I was fortunate to be advised by [Dr. Peter Bentler](https://scholar.google.com/citations?user=esb4VbgAAAAJ&hl=en). Before joining UNC, I worked at SAS for many years, where I developed the IRT procedure and contributed to multiple procedures in SAS/STAT software.
 
-I am an interdisciplinary researcher with extensive experience in developing and applying 
-advanced statistical and computational models to address complex healthcare research 
-challenges. My training in mathematics, statistics, and psychometrics provides a 
-strong foundation for a multidisciplinary research project. Through close collaborations 
-with clinicians, one major focus of my research is to advance patient-centered, 
-evidence-based, and integrative perioperative patient care by identifying and testing 
-risk factor, evaluated treatment effect of individual and combined treatments and developing 
-risk prediction tools. Another key area of my research centers on posttraumatic outcomes, 
-with particular emphasis on chronic posttraumatic pain, where I have led efforts to develop 
-risk prediction tools, identify homogeneous subgroups, and discover objective biomarkers. 
-At UNC-Chapel Hill, I serve as a co-Investigator and lead the statistical analysis core 
-for several large-scale trauma studies. Through my collaboration with researchers from 
-multiple disciplines, I have gained firsthand experience on the importance of multidisciplinary 
-teamwork in advancing research and patient care, particularly in the application of 
-artificial intelligence (AI). Drawing on my diverse research experience and 
-background across many different fields, my overarching goal is to build and lead 
-interdisciplinary teams that integrate clinical domain knowledge, advanced analytics, 
-and AI to advance healthcare research and practice. 
+My research develops and applies advanced statistical and computational methods to address complex healthcare problems. A major focus of my work is improving perioperative patient care through risk prediction, treatment evaluation, and decision-support tools. A second major area centers on posttraumatic outcomes, especially chronic posttraumatic pain and related neuropsychiatric sequelae, where I work on biomarkers, subtyping, and predictive modeling. Across these areas, I am especially interested in interdisciplinary collaboration that combines clinical knowledge, rigorous analytics, and artificial intelligence to improve research and practice.
 
+<div class="landing-links">
+  <a class="landing-link" href="/research/">Research</a>
+  <a class="landing-link" href="/publications/">Publications</a>
+  <a class="landing-link" href="/teaching/">Teaching</a>
+  <a class="landing-link" href="/portfolio/">Portfolio</a>
+  <a class="landing-link" href="/cv/">CV</a>
+  <a class="landing-link" href="https://scholar.google.com/citations?user=srByfZsAAAAJ&hl=en">Google Scholar</a>
+  <a class="landing-link" href="https://www.ncbi.nlm.nih.gov/myncbi/xinming.an.1/bibliography/public/">PubMed</a>
+</div>
 
-News
-======
+## Research Themes
 
-* July, 2025: <span style="color: red;">[Honor]</span> We gratefully acknowledge 
-funding from the Department of Anesthesiology in support of our project developing 
-an AI-powered clinical decision support tool for preoperative evaluation.
-* June, 2025: <span style="color: red;">[Honor]</span> Our paper on language 
-biomarkers of posttraumatic outcomes was highlighted by Digital Psychiatry and 
-Neuroscience ([Youtube video](https://www.youtube.com/watch?v=4i3QrdNy6to)).
-* May, 2025: <span style="color: red;">[Honor]</span> Congratulations to Bridget 
-Lin on receiving the highest honor for her thesis, which focused on developing 
-advanced prediction tools for posttraumatic pain and PTSD leveraging high-dimensional 
-methylation data. 
-* May, 2025: <span style="color: red;">[Honor]</span> Congratulations to Razmin 
-Bari on receiving the highest honor for her thesis, which examined the 
-causal effect of peritraumatic stress on posttraumatic pain.
+<div class="feature-grid">
+  <section class="feature-card">
+    <p class="feature-card__eyebrow">Perioperative Care</p>
+    <h3>Risk prediction and decision support</h3>
+    <p>I study perioperative risk, treatment evaluation, and AI-assisted decision support tools that can help clinicians synthesize complex patient histories before surgery.</p>
+  </section>
+  <section class="feature-card">
+    <p class="feature-card__eyebrow">Trauma Recovery</p>
+    <h3>Posttraumatic pain and neuropsychiatric outcomes</h3>
+    <p>My work examines chronic posttraumatic pain, PTSD-related outcomes, biomarkers, and heterogeneous recovery trajectories using modern statistical and machine learning methods.</p>
+  </section>
+  <section class="feature-card">
+    <p class="feature-card__eyebrow">Methodology</p>
+    <h3>Statistical modeling for complex health data</h3>
+    <p>I develop and apply latent variable models, predictive methods, and computational pipelines for high-dimensional, longitudinal, and clinically rich datasets.</p>
+  </section>
+</div>
 
+## Current Direction
 
+<div class="focus-panel">
+  <p>My recent work increasingly focuses on AI-powered research systems that connect clinical questions, longitudinal EHR data, reproducible analytics, and large language models.</p>
+  <p><strong>Current emphasis:</strong> building research workflows with Codex and Claude that support cohort design, prompt iteration, evaluation planning, result synthesis, and manuscript development for perioperative and posttraumatic outcome studies.</p>
+</div>
 
+## Recent Updates
 
-
+<ul class="news-feed">
+  <li><strong>July 2025.</strong> Departmental funding supported our work on an AI-powered clinical decision support tool for preoperative evaluation.</li>
+  <li><strong>June 2025.</strong> Our paper on language biomarkers of posttraumatic outcomes was highlighted by <em>Digital Psychiatry and Neuroscience</em> ([YouTube video](https://www.youtube.com/watch?v=4i3QrdNy6to)).</li>
+  <li><strong>May 2025.</strong> Bridget Lin received the highest honor for her thesis on advanced prediction tools for posttraumatic pain and PTSD using high-dimensional methylation data.</li>
+  <li><strong>May 2025.</strong> Razmin Bari received the highest honor for her thesis on the causal effect of peritraumatic stress on posttraumatic pain.</li>
+</ul>
 
 
 
