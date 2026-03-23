@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Xinming An"
-excerpt: "Biostatistics, perioperative medicine, and AI-enabled clinical research at UNC-Chapel Hill"
+excerpt: "Biostatistics, data science, and AI-powered interdisciplinary research at UNC-Chapel Hill"
 author_profile: true
 redirect_from:
   - /about/
@@ -16,13 +16,19 @@ I am an Assistant Professor in the [Department of Anesthesiology](https://www.me
 My research develops and applies advanced statistical and computational methods to address complex healthcare problems. A major focus of my work is improving perioperative patient care through risk prediction, treatment evaluation, and decision-support tools. A second major area centers on posttraumatic outcomes, especially chronic posttraumatic pain and related neuropsychiatric sequelae, where I work on biomarkers, subtyping, and predictive modeling. Across these areas, I am especially interested in interdisciplinary collaboration that combines clinical knowledge, rigorous analytics, and artificial intelligence to improve research and practice.
 
 <div class="landing-links">
-  <a class="landing-link" href="/research/">Research</a>
-  <a class="landing-link" href="/publications/">Publications</a>
-  <a class="landing-link" href="/teaching/">Teaching</a>
   <a class="landing-link" href="/portfolio/">Portfolio</a>
+  <a class="landing-link" href="/research/">Research</a>
+  <a class="landing-link" href="/teaching/">Teaching</a>
   <a class="landing-link" href="/cv/">CV</a>
   <a class="landing-link" href="https://scholar.google.com/citations?user=srByfZsAAAAJ&hl=en">Google Scholar</a>
   <a class="landing-link" href="https://www.ncbi.nlm.nih.gov/myncbi/xinming.an.1/bibliography/public/">PubMed</a>
+</div>
+
+## Current Direction
+
+<div class="focus-panel">
+  <p>My recent work increasingly focuses on AI-powered research systems that connect clinical questions, longitudinal EHR data, reproducible analytics, and large language models.</p>
+  <p><strong>Current emphasis:</strong> building research workflows with Codex and Claude that support cohort design, prompt iteration, evaluation planning, result synthesis, and manuscript development for perioperative and posttraumatic outcome studies.</p>
 </div>
 
 ## Research Themes
@@ -45,13 +51,6 @@ My research develops and applies advanced statistical and computational methods 
   </section>
 </div>
 
-## Current Direction
-
-<div class="focus-panel">
-  <p>My recent work increasingly focuses on AI-powered research systems that connect clinical questions, longitudinal EHR data, reproducible analytics, and large language models.</p>
-  <p><strong>Current emphasis:</strong> building research workflows with Codex and Claude that support cohort design, prompt iteration, evaluation planning, result synthesis, and manuscript development for perioperative and posttraumatic outcome studies.</p>
-</div>
-
 ## Recent Updates
 
 <ul class="news-feed">
@@ -60,8 +59,6 @@ My research develops and applies advanced statistical and computational methods 
   <li><strong>May 2025.</strong> Bridget Lin received the highest honor for her thesis on advanced prediction tools for posttraumatic pain and PTSD using high-dimensional methylation data.</li>
   <li><strong>May 2025.</strong> Razmin Bari received the highest honor for her thesis on the causal effect of peritraumatic stress on posttraumatic pain.</li>
 </ul>
-
-
 
 
 

@@ -3,175 +3,78 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
+excerpt: "Research themes spanning perioperative care, posttraumatic outcomes, statistical methodology, and AI-enabled interdisciplinary collaboration"
 redirect_from:
   - /researches/
+header:
+  overlay_color: "#21405a"
+  cta_label: "View Portfolio"
+  cta_url: "/portfolio/"
 ---
 
-I am an interdisciplinary researcher with extensive experience in developing and 
-applying advanced statistical and computational models to address complex healthcare 
-research challenges. Through close collaborations 
-with clinicians, one major focus of my research is to advance patient-centered, 
-evidence-based, and integrative perioperative patient care by identifying and testing 
-risk factor, evaluated treatment effect of individual and combined treatments and developing 
-risk prediction tools. Another key area of my research centers on posttraumatic outcomes, 
-with particular emphasis on chronic posttraumatic pain, where I have led efforts to develop 
-risk prediction tools, identify homogeneous subgroups, and discover objective biomarkers. 
-At UNC-Chapel Hill, I serve as a co-Investigator and lead the statistical analysis core for 
-several large-scale trauma studies. Through my collaboration with researchers from multiple 
-disciplines, I have gained firsthand experience on the importance of multidisciplinary 
-teamwork in advancing research and patient care, particularly in the application of 
-artificial intelligence (AI). Drawing on my diverse research experience and background 
-across many different fields, my overarching goal is to build and lead interdisciplinary 
-teams that integrate clinical domain knowledge, advanced analytics, and AI to advance 
-healthcare research and practice. 
+My research develops and applies statistical, computational, and AI-enabled methods to address clinically important questions in perioperative medicine, trauma recovery, and complex health data analysis. Across projects, I work closely with clinicians, trainees, and interdisciplinary collaborators to build research programs that are methodologically rigorous, practically useful, and increasingly supported by reproducible data science and AI workflows.
 
+<div class="focus-panel">
+  <p>I view <strong>Research</strong> and <strong>Portfolio</strong> as complementary pages: this page summarizes the main scientific directions and representative work, while the <a href="/portfolio/">Portfolio</a> page highlights current systems-building efforts such as AI-assisted clinical summarization and prediction pipelines.</p>
+</div>
 
-<span style="color: blue;"> Advance patient-centered, evidence-based, and integrative perioperative patient care. </span>
-======
+## Research Areas
 
-Collaborators
-------
-* [Lindsey Gouker](https://www.med.unc.edu/anesthesiology/directory/lindsey-gouker/), Department of Anesthesiology, UNC-Chapel Hill
-* [Monika Nanda](https://www.med.unc.edu/anesthesiology/directory/monika-nanda/), Department of Anesthesiology, UNC-Chapel Hill
-* [Tianlong Chen](https://tianlong-chen.github.io/), Department of Computer Science, UNC-Chapel Hill
+<div class="feature-grid">
+  <section class="feature-card">
+    <p class="feature-card__eyebrow">Perioperative Medicine</p>
+    <h3>Patient-centered and data-informed perioperative care</h3>
+    <p>I study perioperative risk factors, treatment effects, gastric ultrasound, fluid status, and AI-assisted decision support tools designed to improve preoperative and intraoperative care.</p>
+  </section>
+  <section class="feature-card">
+    <p class="feature-card__eyebrow">Trauma Recovery</p>
+    <h3>Posttraumatic pain, neuropsychiatric outcomes, and biomarkers</h3>
+    <p>I develop prediction tools, identify clinically meaningful subgroups, and investigate wearable, language, and behavioral biomarkers for heterogeneous posttraumatic outcomes.</p>
+  </section>
+  <section class="feature-card">
+    <p class="feature-card__eyebrow">Methodology</p>
+    <h3>Statistical modeling for high-dimensional and longitudinal data</h3>
+    <p>My methodological work spans latent variable models, heterogeneous treatment effects, hidden Markov models, and computational approaches for complex longitudinal health data.</p>
+  </section>
+</div>
 
+## Selected Work By Area
 
-Selected Publications
-------
-* Wrobel JR, Magin JC, Koyama Y, Sanders DG, Pillai M, An X, Grant SA, Doyal AS. 
-Developing a method for ultrasound estimation of gastric volume in patients with 
-previous gastric sleeve. Reg Anesth Pain Med. 2025 Jun 4:rapm-2025-106570. doi: 
-10.1136/rapm-2025-106570. Epub ahead of print. PMID: 40467086. 
+### Perioperative care and clinical decision support
 
-* Jacqueline A. Quinn, Kevin M. Welch, Erina Fujino, Carlos A. Jimenez Rosado, 
-Xinming An, Jay W. Schoenherr, Lindsey N. Gouker. Perioperative glucagon-like 
-peptide-1 receptor agonist use and retained gastric contents: A retrospective 
-analysis of patients undergoing elective upper endoscopy, Journal of Clinical 
-Anesthesia, Volume 102, 2025,111776,ISSN 0952-8180.
+<div class="project-callout">
+  <p class="project-callout__label">Collaborators</p>
+  <p><a href="https://www.med.unc.edu/anesthesiology/directory/lindsey-gouker/">Lindsey Gouker</a>, <a href="https://www.med.unc.edu/anesthesiology/directory/monika-nanda/">Monika Nanda</a>, and <a href="https://tianlong-chen.github.io/">Tianlong Chen</a>.</p>
+</div>
 
-* Magin JC, Wrobel JR, An X, Acton J, Doyal A, Jia S, Krakowski JC, Schoenherr J, 
-Serrano R, Flynn D, McLean D, Grant SA. Venous Excess Ultrasound (VExUS Grading 
-to Assess Perioperative Fluid Status for Noncardiac Surgeries: a Prospective 
-Observational Pilot Study. POCUS J. 2023 Nov 27;8(2):223-229. 
-doi: 10.24908/pocus.v8i2.16792. PMID: 38099161; PMCID: PMC10721303.
+* Wrobel JR, Magin JC, Koyama Y, Sanders DG, Pillai M, An X, Grant SA, Doyal AS. Developing a method for ultrasound estimation of gastric volume in patients with previous gastric sleeve. <em>Reg Anesth Pain Med.</em> 2025.
+* Jacqueline A. Quinn, Kevin M. Welch, Erina Fujino, Carlos A. Jimenez Rosado, Xinming An, Jay W. Schoenherr, Lindsey N. Gouker. Perioperative glucagon-like peptide-1 receptor agonist use and retained gastric contents: A retrospective analysis of patients undergoing elective upper endoscopy. <em>Journal of Clinical Anesthesia.</em> 2025.
+* Magin JC, Wrobel JR, An X, Acton J, Doyal A, Jia S, Krakowski JC, Schoenherr J, Serrano R, Flynn D, McLean D, Grant SA. Venous Excess Ultrasound (VExUS) grading to assess perioperative fluid status for noncardiac surgeries: a prospective observational pilot study. <em>POCUS J.</em> 2023.
+* Smeltz AM, Farber MA, Parodi FE, An X, Kirsch RJ, Hipp JS, Kumar PA, Arora H. Comparison of landmark-guided versus fluoroscopy-guided cerebrospinal fluid drain-related complications after aortic repairs. <em>J Cardiothorac Vasc Anesth.</em> 2023.
 
-* Smeltz AM, Farber MA, Parodi FE, An X, Kirsch RJ, Hipp JS, Kumar PA, Arora H. 
-Comparison of Landmark-Guided Versus Fluoroscopy-Guided Cerebrospinal Fluid 
-Drain-Related Complications After Aortic Repairs. J Cardiothorac Vasc Anesth. 
-2023 Sep;37(9):1707-1713. doi: 10.1053/j.jvca.2023.05.048. Epub 2023 Jun 2. 
-PMID: 37328307.
+### Posttraumatic outcomes and recovery
 
+<div class="project-callout">
+  <p class="project-callout__label">Collaborators</p>
+  <p><a href="https://www.med.unc.edu/anesthesiology/directory/sarah-linnstaedt/">Sarah Linnstaedt</a>, <a href="https://www.med.unc.edu/anesthesiology/directory/lauriane-guichard/">Lauriane Guichard</a>, <a href="https://www.med.unc.edu/itr/directory/samclean/">Sam McLean</a>, and <a href="https://nursing.arizona.edu/clee33">Chiyoung Lee</a>.</p>
+</div>
 
+* Vizer L, Pierce J, Ji Y, Bucher MA, Liu M, Ungar L, Giorgi S, Xing Z, House SL, Beaudoin FL, Stevens JS, Neylan TC, Clifford GD, Jovanovic T, Linnstaedt SD, Zeng D, Germine LT, Bollen KA, Rauch SL, Haran JP, Storrow AB, Lewandowski C, Musey PI Jr, Hendry PL, Sheikh S, Jones CW, Punches BE, Hudak LA, Pascual JL, Seamon MJ, Harris E, Pearson C, Peak DA, Merchant RC, Domeier RM, O'Neil BJ, Sergot P, Sanchez LD, Bruce SE, Harte SE, Kessler RC, Koenen KC, McLean SA, An X. Smartphone language features may help identify adverse post-traumatic neuropsychiatric sequelae and their trajectories. <em>NPP Digit Psychiatry Neurosci.</em> 2025.
+* Guichard L, An X, Neylan TC, Clifford GD, Li Q, Ji Y, Macchio L, Baker J, Beaudoin FL, Jovanovic T, Linnstaedt SD, Germine LT, Bollen KA, Rauch SL, Haran JP, Storrow AB, Lewandowski C, Musey PI Jr, Hendry PL, Sheikh S, Jones CW, Punches BE, Swor RA, Gentile NT, Pascual JL, Seamon MJ, Datner EM, Pearson C, Peak DA, Merchant RC, Domeier RM, Rathlev NK, O'Neil BJ, Sergot P, Sanchez LD, Bruce SE, Sheridan JF, Harte SE, Ressler KJ, Koenen KC, Kessler RC, McLean SA. Heart rate variability wrist-wearable biomarkers identify adverse posttraumatic neuropsychiatric sequelae after traumatic stress exposure. <em>Psychiatry Res.</em> 2024.
+* Lee C, House SL, Beaudoin FL, Neylan TC, Clifford GD, Linnstaedt SD, Germine LT, Rauch SL, Haran JP, Storrow AB, Lewandowski C, Musey PI Jr, Hendry PL, Sheikh S, Punches BE, Swor RA, Hudak LA, Pascual JL, Seamon MJ, Harris E, Pearson C, Peak DA, Domeier RM, Rathlev NK, O'Neil BJ, Sergot P, Sanchez LD, Bruce SE, Sheridan JF, Harte SE, Koenen KC, Kessler RC, McLean SA, Yang Q, An X. Understanding onset, dynamic transitions, and associated inequality risk factors for adverse posttraumatic neuropsychiatric sequelae after trauma exposure. <em>Psychiatr Res Clin Pract.</em> 2024.
+* Jones CW, An X, Ji Y, Liu M, Zeng D, House SL, Beaudoin FL, Stevens JS, Neylan TC, Clifford GD, Jovanovic T, Linnstaedt SD, Germine LT, Bollen KA, Rauch SL, Haran JP, Storrow AB, Lewandowski C, Musey PI Jr, Hendry PL, Sheikh S, Punches BE, Lyons MS, Kurz MC, Swor RA, McGrath ME, Hudak LA, Pascual JL, Seamon MJ, Datner EM, Harris E, Chang AM, Pearson C, Peak DA, Merchant RC, Domeier RM, Rathlev NK, O'Neil BJ, Sergot P, Sanchez LD, Bruce SE, Miller MW, Pietrzak RH, Joormann J, Barch DM, Pizzagalli DA, Sheridan JF, Smoller JW, Harte SE, Elliott JM, Koenen KC, Ressler KJ, Kessler RC, McLean SA. Derivation and validation of a brief ED-based prediction tool for posttraumatic stress after motor vehicle collision. <em>Ann Emerg Med.</em> 2022.
 
-<span style="color: blue;"> Develop risk prediction tools, and identify objective biomarkers and subtypes for posttraumatic outcomes. </span>
-======
+### Statistical methodology and high-dimensional data analysis
 
-Collaborators
-------
-* [Sarah Linnstaedt](https://www.med.unc.edu/anesthesiology/directory/sarah-linnstaedt/), Department of Anesthesiology, UNC-Chapel Hill
-* [Lauriane Guichard](https://www.med.unc.edu/anesthesiology/directory/lauriane-guichard/), Department of Anesthesiology, UNC-Chapel Hill
-* [Sam McLean](https://www.med.unc.edu/itr/directory/samclean/), Department of Psychiatry and Emergency Medicine, UNC-Chapel Hill
-* [Chiyoung Lee](https://nursing.arizona.edu/clee33), College of Nursing, University of Arizona
+<div class="project-callout">
+  <p class="project-callout__label">Collaborators</p>
+  <p><a href="https://song-ray.github.io/">Song Rui</a>, <a href="https://hengruicai.github.io/">Heng Cai</a>, and <a href="https://statistics.sciences.ncsu.edu/people/wlu4/">Wenbin Lu</a>.</p>
+</div>
 
-Selected Publications
-------
-* Vizer L, Pierce J, Ji Y, Bucher MA, Liu M, Ungar L, Giorgi S, Xing Z, House SL, 
-Beaudoin FL, Stevens JS, Neylan TC, Clifford GD, Jovanovic T, Linnstaedt SD, 
-Zeng D, Germine LT, Bollen KA, Rauch SL, Haran JP, Storrow AB, Lewandowski C, 
-Musey PI Jr, Hendry PL, Sheikh S, Jones CW, Punches BE, Hudak LA, Pascual JL, 
-Seamon MJ, Harris E, Pearson C, Peak DA, Merchant RC, Domeier RM, O'Neil BJ, 
-Sergot P, Sanchez LD, Bruce SE, Harte SE, Kessler RC, Koenen KC, McLean SA, 
-An X. Smartphone language features may help identify adverse post-traumatic 
-neuropsychiatric sequelae and their trajectories. NPP Digit Psychiatry Neurosci. 
-2025;3(1):8. doi: 10.1038/s44277-025-00028-x. Epub 2025 May 20. PMID: 40406207; 
-PMCID: PMC12092297. 
+* Ge L, An X, Zeng D, McLean S, Kessler R, Song R. Continuous-time hidden Markov factor model for mobile health data: application to adverse posttraumatic neuropsychiatric sequelae. <em>IEEE J Biomed Health Inform.</em> 2025.
+* Watson RA, Cai H, An X, McLean S, Song R. On heterogeneous treatment effects in heterogeneous causal graphs. <em>ICML 2023.</em>
+* An X, Yang Q, Bentler PM. A latent factor linear mixed model for high-dimensional longitudinal data analysis. <em>Statistics in Medicine.</em> 2013.
+* An X, Bentler PM. Extended mixture factor analysis model with covariates for mixed binary and continuous responses. <em>Statistics in Medicine.</em> 2011.
+* An X, Bentler PM. Efficient direct sampling MCEM algorithm for latent variable models with binary responses. <em>Computational Statistics & Data Analysis.</em> 2012.
 
-* Guichard L, An X, Neylan TC, Clifford GD, Li Q, Ji Y, Macchio L, Baker J, 
-Beaudoin FL, Jovanovic T, Linnstaedt SD, Germine LT, Bollen KA, Rauch SL, Haran JP, 
-Storrow AB, Lewandowski C, Musey PI Jr, Hendry PL, Sheikh S, Jones CW, Punches BE, 
-Swor RA, Gentile NT, Pascual JL, Seamon MJ, Datner EM, Pearson C, Peak DA, 
-Merchant RC, Domeier RM, Rathlev NK, O'Neil BJ, Sergot P, Sanchez LD, Bruce SE, 
-Sheridan JF, Harte SE, Ressler KJ, Koenen KC, Kessler RC, McLean SA; AURORA 
-Study Group. Heart rate variability wrist-wearable biomarkers identify 
-adverse posttraumatic neuropsychiatric sequelae after traumatic stress exposure. 
-Psychiatry Res. 2024 Nov 7;342:116260. doi: 10.1016/j.psychres.2024.116260. 
-PMID: 39549594.
-
-* Lee C, House SL, Beaudoin FL, Neylan TC, Clifford GD, Linnstaedt SD, Germine LT, 
-Rauch SL, Haran JP, Storrow AB, Lewandowski C, Musey PI Jr, Hendry PL, Sheikh S, 
-Punches BE, Swor RA, Hudak LA, Pascual JL, Seamon MJ, Harris E, Pearson C, 
-Peak DA, Domeier RM, Rathlev NK, O'Neil BJ, Sergot P, Sanchez LD, Bruce SE, 
-Sheridan JF, Harte SE, Koenen KC, Kessler RC, McLean SA, Yang Q, An X. 
-Understanding Onset, Dynamic Transitions, and Associated Inequality Risk Factors 
-for Adverse Posttraumatic Neuropsychiatric Sequelae After Trauma Exposure. 
-Psychiatr Res Clin Pract. 2024 Nov 6;7(1):53-62. doi: 10.1176/appi.prcp.20240017. 
-PMID: 40171069; PMCID: PMC11956718. 
-
-* Straus LD, An X, Ji Y, Cakmak AS, Richards A, Clifford GD, Liu M4, Zeng D, 
-House SL, Beaudoin FL, Stevens JS, Linnstaedt SD, Germine LT, Bollen KA, 
-Rauch SL, Haran JP, Storrow AB, Lewandowski C, Musey PI, Hendry PL, Sheikh S, 
-Jones CW, Punches BE, Kurz MC, Swor RA, Hudak LA, Seamon MJ, Datner EM, 
-Chang AM, Pearson C, Peak DA, Merchant RC, Domeier RM, Rathlev NK, O'Neil BJ, 
-Sergot P, Sanchez LD, Bruce SE, Miller MW, Pietrzak RH, Joormann J, Barch DM, 
-Pizzagalli DA, Sheridan JF, Harte SE, Elliott JM, Kessler RC, Ressler KJ, 
-Koenen KC, McLean SA, Neylan TC. Utility of Wrist-Wearable Data for Assessing 
-Pain, Sleep, and Anxiety Outcomes After Traumatic Stress Exposure. 
-JAMA Psychiatry. 2023 Jan 11:e224533. doi: 10.1001/jamapsychiatry.2022.4533. 
-PMID: 36630119; PMCID: PMC9857758.
-
-* Jones CW, An X, Ji Y, Liu M, Zeng D, House SL, Beaudoin FL, Stevens JS, 
-Neylan TC, Clifford GD, Jovanovic T, Linnstaedt SD, Germine LT, Bollen KA, 
-Rauch SL, Haran JP, Storrow AB, Lewandowski C, Musey PI Jr, Hendry PL, 
-Sheikh S, Punches BE, Lyons MS, Kurz MC, Swor RA, McGrath ME, Hudak LA, 
-Pascual JL, Seamon MJ, Datner EM, Harris E, Chang AM, Pearson C, Peak DA, 
-Merchant RC, Domeier RM, Rathlev NK, O'Neil BJ, Sergot P, Sanchez LD, 
-Bruce SE, Miller MW, Pietrzak RH, Joormann J, Barch DM, Pizzagalli DA, 
-Sheridan JF, Smoller JW, Harte SE, Elliott JM, Koenen KC, Ressler KJ, 
-Kessler RC, McLean SA. Derivation and validation of a brief ED-based prediction 
-tool for posttraumatic stress after motor vehicle collision. Ann Emerg Med. 
-2022 Oct 31: S0196-0644(22)00585-6. doi: 10.1016/j.annemergmed.2022.08.011. 
-PMID: 36328855. 
-
-* Beaudoin FL, An X, Basu A, Ji Y, Liu M, Kessler RC, Doughtery R, Zeng D, 
-Bollen KA, House SL, Stevens JS, Neylan TC, Clifford GD, Jovanovic T, 
-Linnstaedt SD, Germine LT, Rauch SL, Haran JP, Storrow AB, Lewandowski C, 
-Musey PI Jr., Hendry PL, Sheikh S, Jones CW, Punches BE, Kurz MC, Swor RA, 
-Murty VP, McGrath ME, Hudak LA, Pascual JL, Datner EM, Chang AM, Pearson C, 
-Peak DA, Merchant RC, Domeier RM, Rathlev NK, O'Neil BJ, Sergot P, Sanchez LD, 
-Bruce SE, Baker J, Joormann J,  Miller MW, Pietrzak RH, Barch DM, Pizzagalli DA, 
-Sheridan JF, Smoller JW, Harte SE, Elliot JM, Koenen KC, Ressler KJ, McLean SA. 
-Use of serial smartphone-based assessments to characterize diverse 
-neuropsychiatric symptom trajectories in a large trauma survivor cohort. 
-Transl Psychiatry. 2023 Jan 7;13(1):4. doi: 10.1038/s41398-022-02289-y. 
-PMID: 36609484; PMCID: PMC9823011.
-
-
-<span style="color: blue;"> High dimensional complex data analysis. </span>
-======
-
-Collaborators
-------
-* [Song Rui](https://song-ray.github.io/), Amazon Inc. 
-* [Heng Cai](https://hengruicai.github.io/), Department of Statistics, 
-University of California, Irvine. 
-* [Wenbin Lu](https://statistics.sciences.ncsu.edu/people/wlu4/), Department of Statistics, North Carolina State University. 
-
-Selected Publications
-------
-* Ge L, An X, Zeng D, McLean S, Kessler R, Song R. Continuous-Time Hidden Markov 
-Factor Model for Mobile Health Data: Application to Adverse Posttraumatic 
-Neuropsychiatric Sequelae. IEEE J Biomed Health Inform. 2025 Feb;29(2):741-749. 
-doi: 10.1109/JBHI.2024.3514678. Epub 2025 Feb 10. PMID: 40030431; PMCID: PMC11970992. 
-
-* Watson, RA., Cai, H., An, X., McLean, S., & Song, R. On Heterogeneous Treatment 
-Effects in Heterogeneous Causal Graphs. In International Conference on Machine 
-Learning (ICML 2023).
-
-* An X, Yang Q, Bentler PM. A latent factor linear mixed model for high-dimensional 
-longitudinal data analysis. Statistics in Medicine, 2013.  
-
-* An X, Bentler PM. Extended mixture factor analysis model with covariates for 
-mixed binary and continuous responses. Statistics in Medicine, 2011.  
-
-* An X, Bentler PM. Efficient direct sampling MCEM algorithm for latent variable 
-models with binary responses. Computational Statistics & Data Analysis, 2012.
+For project-level systems work, demos, and current AI-enabled pipelines, see the <a href="/portfolio/">Portfolio</a> page. For a broader academic record and external publication profiles, see <a href="/cv/">CV</a>.
