@@ -138,6 +138,7 @@ exclude:
   - Gemfile
   - Gruntfile.js
   - LICENSE
+  - markdown_generator
   - README
   - Rakefile
   - assets/js/_main.js
@@ -213,6 +214,26 @@ defaults:
     values:
       layout: single
       author_profile: true
+  - scope:
+      path: "google248abbcfa3c1b26d.html"
+    values:
+      sitemap: false
+  - scope:
+      path: "talkmap/map.html"
+    values:
+      sitemap: false
+  - scope:
+      path: "files/paper1.pdf"
+    values:
+      sitemap: false
+  - scope:
+      path: "files/paper2.pdf"
+    values:
+      sitemap: false
+  - scope:
+      path: "files/paper3.pdf"
+    values:
+      sitemap: false
   # _teaching
   - scope:
       path: ""
