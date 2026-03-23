@@ -5,12 +5,73 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-{% include base_path %}
+This page highlights recent AI-enabled research systems and prediction workflows that connect
+clinical questions, EHR data engineering, LLM experimentation, and manuscript development.
+Across these projects, I have been using Codex and Claude not only for coding assistance, but
+also for planning, prompt iteration, pipeline design, validation, and research writing support.
 
-{% if site.portfolio.size > 0 %}
-  {% for post in site.portfolio %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% else %}
-No portfolio items have been added yet.
-{% endif %}
+PreoperativeEvaluation
+======
+
+**Clinical AI pipeline for automated preoperative evaluation summaries**
+
+This project is an end-to-end research platform for generating anesthesiology-style preoperative
+evaluation summaries from longitudinal EHR data in MIMIC-IV. The system combines BigQuery-based
+cohort construction, structured clinical data extraction, open-source LLM summarization, and
+LLM-as-judge evaluation into a coordinated multi-agent workflow.
+
+Highlights
+------
+
+* Built a LangGraph-style multi-agent pipeline spanning data retrieval, summarization, evaluation, and analysis.
+* Integrated structured perioperative context including medications, labs, microbiology, comorbidity burden, baseline measurements, and prior admissions.
+* Benchmarked open-source LLMs across multiple inference backends and evaluated summary quality with rubric-based commercial LLM judges.
+* Developed supporting research artifacts including experiment outputs, publication figures, manuscript drafts, a clinician review app, and a synthetic demo.
+* Used Codex and Claude as part of the research workflow for prompt design, rubric iteration, experiment planning, implementation support, and manuscript development.
+
+Technical Focus
+------
+
+Python, LangGraph/LangChain-style orchestration, BigQuery/GCP, Hugging Face and vLLM model serving,
+Anthropic/OpenAI-based evaluation, and research-tooling pipelines for figures, tables, and exports.
+
+
+PostoperationPrediction
+======
+
+**Preoperative prediction of postoperative infection using longitudinal EHR context**
+
+This project focuses on infection-first postoperative risk prediction from preoperative and prior-admission
+EHR data. The current workflow centers on building a leakage-aware surgical cohort, constructing modeling-ready
+inputs, preparing fine-tuning datasets, and evaluating open-weight LLM classifiers for clinically relevant
+postoperative infection outcomes.
+
+Highlights
+------
+
+* Framed the first manuscript around ICD-based postoperative infection as a clinically coherent primary endpoint.
+* Built patient-level cohorting and split logic to reduce leakage from repeat admissions.
+* Constructed modeling inputs that combine demographics, procedures, comorbidity context, medications, labs, microbiology, and prior-admission note history.
+* Prepared fine-tuning and evaluation pipelines for LoRA/QLoRA-based LLM prediction workflows.
+* Early pilot work showed reduced-context input strategies outperforming naive long-context truncation, improving held-out ROC AUC from 0.675 to 0.883 and average precision from 0.159 to 0.478.
+* Used a planning-oriented multi-agent workflow, supported by Codex and Claude, to coordinate data, modeling, validation, and manuscript tasks.
+
+Technical Focus
+------
+
+Longitudinal EHR representation, patient-level dataset design, fine-tuning exports for instruction-style models,
+LoRA/QLoRA experimentation, and evaluation pipelines for clinically meaningful binary prediction tasks.
+
+
+Current Direction
+======
+
+My recent work increasingly focuses on AI-powered research systems that combine:
+
+* clinical domain expertise
+* large language models
+* reproducible data and evaluation pipelines
+* agentic planning and coding workflows with Codex and Claude
+
+These projects reflect my broader goal of using AI to accelerate rigorous, clinically grounded research rather
+than treating AI as an isolated modeling component.
