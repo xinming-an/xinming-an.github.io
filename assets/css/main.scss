@@ -91,7 +91,8 @@
 .project-panel,
 .portfolio-intro,
 .focus-panel,
-.project-showcase {
+.project-showcase,
+.project-callout {
   border: 1px solid rgba(21, 56, 79, 0.1);
   border-radius: 18px;
   background: linear-gradient(180deg, #ffffff 0%, #f7fbfd 100%);
@@ -108,6 +109,36 @@
 .project-showcase {
   padding: 1.5rem 1.6rem;
   margin: 0 0 2rem;
+}
+
+.project-callout {
+  position: relative;
+  margin: 0 0 1.5rem;
+  padding: 1.15rem 1.25rem 1.15rem 1.4rem;
+  background: linear-gradient(135deg, #f4fbfc 0%, #e4f3f7 100%);
+}
+
+.project-callout::before {
+  content: "";
+  position: absolute;
+  inset: 0 auto 0 0;
+  width: 7px;
+  border-radius: 18px 0 0 18px;
+  background: linear-gradient(180deg, #0f6478 0%, #5fa3b7 100%);
+}
+
+.project-callout__label {
+  margin: 0 0 0.35rem;
+  color: #0f6478;
+  font-family: $sans-serif;
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.project-callout p:last-child {
+  margin-bottom: 0;
 }
 
 .feature-card__eyebrow,
