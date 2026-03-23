@@ -2,6 +2,8 @@
 permalink: /
 title: "Xinming An"
 excerpt: "Biostatistics, data science, and AI-powered interdisciplinary research at UNC-Chapel Hill"
+description: "Xinming An is an Assistant Professor of Anesthesiology at UNC-Chapel Hill working in biostatistics, data science, and AI-powered interdisciplinary health research."
+seo_title: "Xinming An | Biostatistics, Data Science, and AI Research at UNC-Chapel Hill"
 author_profile: true
 redirect_from:
   - /about/
@@ -59,7 +61,6 @@ My research develops and applies advanced statistical and computational methods 
   <li><strong>May 2025.</strong> Bridget Lin received the highest honor for her thesis on advanced prediction tools for posttraumatic pain and PTSD using high-dimensional methylation data.</li>
   <li><strong>May 2025.</strong> Razmin Bari received the highest honor for her thesis on the causal effect of peritraumatic stress on posttraumatic pain.</li>
 </ul>
-
 
 
 
