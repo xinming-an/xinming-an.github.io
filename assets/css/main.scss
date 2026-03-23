@@ -141,6 +141,29 @@
   margin-bottom: 0;
 }
 
+.project-screenshot {
+  margin: 0 0 1.75rem;
+  padding: 0.9rem;
+  border: 1px solid rgba(21, 56, 79, 0.1);
+  border-radius: 18px;
+  background: #ffffff;
+  box-shadow: 0 16px 36px rgba(17, 45, 61, 0.08);
+}
+
+.project-screenshot img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+  border: 1px solid rgba(21, 56, 79, 0.08);
+}
+
+.project-screenshot figcaption {
+  margin-top: 0.8rem;
+  color: #4a6574;
+  font-size: 0.92rem;
+}
+
 .feature-card__eyebrow,
 .project-showcase__eyebrow {
   margin: 0 0 0.45rem;
