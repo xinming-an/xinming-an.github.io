@@ -11,6 +11,10 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+{% if site.publications.size > 0 %}
+  {% for post in site.publications reversed %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% else %}
+No publications have been added yet.
+{% endif %}

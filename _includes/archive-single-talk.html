@@ -25,9 +25,15 @@
           alt="">
       </div>
     {% endif %}
+    {% assign talks_collection = site.collections | where: "label", "talks" | first %}
     <h2 class="archive__item-title" itemprop="headline">
       {% if post.link %}
-        <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+        <a href="{{ post.link }}">{{ title }}</a>
+        {% if talks_collection.output %}
+          <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+        {% endif %}
+      {% elsif post.collection == "talks" and talks_collection.output != true %}
+        {{ title }}
       {% else %}
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}

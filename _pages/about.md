@@ -5,10 +5,9 @@ excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
-  - /about.html
 ---
 
-I am an Assistant Professor in the [Department of Anesthesiology]((https://www.med.unc.edu/anesthesiology/directory/xinming-simon-an/)) 
+I am an Assistant Professor in the [Department of Anesthesiology](https://www.med.unc.edu/anesthesiology/directory/xinming-simon-an/)
 and [Institute for Trauma Recovery](https://www.med.unc.edu/itr/) at UNC-Chapel Hill. 
 I obtained my Ph.D. in Quantitative Psychology and M.S. in Statistics at UCLA, 
 where I was fortunate to be advised by [Dr. Peter Bentler](https://scholar.google.com/citations?user=esb4VbgAAAAJ&hl=en). 
@@ -51,9 +50,6 @@ methylation data.
 * May, 2025: <span style="color: red;">[Honor]</span> Congratulations to Razmin 
 Bari on receiving the highest honor for her thesis, which examined the 
 causal effect of peritraumatic stress on posttraumatic pain.
-
-
-
 
 
 
