@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "X-Lab"
+title                    : "Xinming An"
 title_separator          : "-"
 name                     : &name "Xinming An"
-description              : &description "Assistant Professor at UNC-Chapel Hill"
+description              : &description "Assistant Professor of Anesthesiology and biostatistician at UNC-Chapel Hill"
 url                      : https://xinming-an.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xinming-an/xinming-an.github.io"
@@ -66,9 +66,13 @@ og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : "Person"
+  name                   : "Xinming An"
+  links:
+    - "https://scholar.google.com/citations?user=srByfZsAAAAJ&hl=en"
+    - "https://orcid.org/0000-0002-8332-0362"
+    - "https://github.com/xinming-an"
+    - "https://www.ncbi.nlm.nih.gov/myncbi/xinming.an.1/bibliography/public/"
 
 
 # Analytics
@@ -82,14 +86,14 @@ analytics:
 author:
   name             : "Xinming An"
   avatar           : "xman.jpeg"
-  bio              : "Biostatistician; Data Scientist; Pain, PTSD, Posttraumatic outcomes; Perioperative patient care"
+  bio              : "Assistant Professor of Anesthesiology focused on biostatistics, posttraumatic outcomes, perioperative care, and AI-enabled health research."
   location         : "UNC-Chapel Hill"
-  employer         :
+  employer         : "Department of Anesthesiology"
   pubmed           : "https://www.ncbi.nlm.nih.gov/myncbi/xinming.an.1/bibliography/public/"
   googlescholar    : "https://scholar.google.com/citations?user=srByfZsAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "https://xinming-an.github.io"
   bitbucket        :
   codepen          :
   dribbble         :
