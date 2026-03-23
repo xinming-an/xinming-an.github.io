@@ -15,7 +15,7 @@ header:
 My research develops and applies statistical, computational, and AI-enabled methods to address clinically important questions in perioperative medicine, trauma recovery, and complex health data analysis. Across projects, I work closely with clinicians, trainees, and interdisciplinary collaborators to build research programs that are methodologically rigorous, practically useful, and increasingly supported by reproducible data science and AI workflows.
 
 <div class="focus-panel">
-  <p>I view <strong>Research</strong> and <strong>Portfolio</strong> as complementary pages: this page summarizes the main scientific directions and representative publications, while the <a href="/portfolio/">Portfolio</a> page highlights current systems-building work such as AI-assisted clinical summarization and prediction pipelines.</p>
+  <p>I view <strong>Research</strong> and <strong>Portfolio</strong> as complementary pages: this page summarizes the main scientific directions and representative work, while the <a href="/portfolio/">Portfolio</a> page highlights current systems-building efforts such as AI-assisted clinical summarization and prediction pipelines.</p>
 </div>
 
 ## Research Areas
@@ -77,4 +77,4 @@ My research develops and applies statistical, computational, and AI-enabled meth
 * An X, Bentler PM. Extended mixture factor analysis model with covariates for mixed binary and continuous responses. <em>Statistics in Medicine.</em> 2011.
 * An X, Bentler PM. Efficient direct sampling MCEM algorithm for latent variable models with binary responses. <em>Computational Statistics & Data Analysis.</em> 2012.
 
-For project-level systems work, demos, and current AI-enabled pipelines, see the <a href="/portfolio/">Portfolio</a> page. For a broader list of papers, see <a href="/publications/">Publications</a>.
+For project-level systems work, demos, and current AI-enabled pipelines, see the <a href="/portfolio/">Portfolio</a> page. For a broader academic record and external publication profiles, see <a href="/cv/">CV</a>.

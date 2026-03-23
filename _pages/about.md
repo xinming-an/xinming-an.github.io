@@ -18,7 +18,6 @@ My research develops and applies advanced statistical and computational methods 
 <div class="landing-links">
   <a class="landing-link" href="/portfolio/">Portfolio</a>
   <a class="landing-link" href="/research/">Research</a>
-  <a class="landing-link" href="/publications/">Publications</a>
   <a class="landing-link" href="/teaching/">Teaching</a>
   <a class="landing-link" href="/cv/">CV</a>
   <a class="landing-link" href="https://scholar.google.com/citations?user=srByfZsAAAAJ&hl=en">Google Scholar</a>
@@ -60,7 +59,6 @@ My research develops and applies advanced statistical and computational methods 
   <li><strong>May 2025.</strong> Bridget Lin received the highest honor for her thesis on advanced prediction tools for posttraumatic pain and PTSD using high-dimensional methylation data.</li>
   <li><strong>May 2025.</strong> Razmin Bari received the highest honor for her thesis on the causal effect of peritraumatic stress on posttraumatic pain.</li>
 </ul>
-
 
 
 
